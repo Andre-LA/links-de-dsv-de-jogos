@@ -1,6 +1,8 @@
-# Materiais de estudo
+# Links de Desenvolvimento de Jogos
 
 Eu linkei aqui quase de tudo que tiver relação a criação de jogos, seja programação, arte, música, etc etc etc. Linkei materiais em português como inglês também.
+
+Não são necessáriamente os melhores, mas sim os que vi e/ou acompanho e achei bons.
 
 
 ## ARTIGOS
