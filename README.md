@@ -19,23 +19,22 @@ https://github.com/SSYGEN/blog/issues/31
 Os dois primeiros vídeos dele falam sobre alguns problemas comuns com programação de jogos (em "baixo" (médio?) nível (C++))  
 https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO
 
-"O que são Shaders?" (e como funcionam)
+"O que são Shaders?" (e como funcionam)  
 Objetivo, explica direitinho o que é e como funciona (de verdade, sem ter "mágica" envolvida, dá alguns exemplos, tudo isso em apenas 6 min)  
 https://www.youtube.com/watch?v=sXbdF4KjNOc
 
-Canal MarkBrown, a série TheGameMakersToolKit é excelente, ou seja,
-TODOS OS VÍDEOS DESSE CARA SÃO MARAVILHOSOS
+Canal MarkBrown, a série TheGameMakersToolKit é excelente, ou seja,  
+TODOS OS VÍDEOS DESSE CARA SÃO MARAVILHOSOS  
 (fala mais sobre game ou level design, alguns vídeos, principalmente os mais antigos, tem legendas em ptbr, o canal dele é em inglês)  
 https://www.youtube.com/user/McBacon1337/videos
 
-Eu deveria estar vendo isso, mas ainda nem comecei : P
-Se trata de matemática para jogos  
+Matemática para jogos  
 https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-
 
 Canal de Tutoriais de Blender, ele ensina de forma bem prática  
 https://www.youtube.com/user/canalblenderpower/videos
 
-Esse canal tem bastante tutorial de arte (Krita)   
+Esse canal tem bastante tutorial de arte (Krita)  
 Agora ele está focando em criar tutorais do motor Godot, mas eu não gostei tanto desse motor : P, mas fica a dica pra quem gosta também  
 https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ/playlists
 
