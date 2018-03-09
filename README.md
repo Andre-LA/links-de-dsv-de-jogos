@@ -20,7 +20,7 @@ Os dois primeiros vídeos dele falam sobre alguns problemas comuns com programa�
 https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO
 
 "O que são Shaders?" (e como funcionam)
-Objetivo, explica direitinho o que é e como funciona (de verdade, sem ter "mágica" envolvida, dá alguns exemplos, tudo isso em apenas 6 min  
+Objetivo, explica direitinho o que é e como funciona (de verdade, sem ter "mágica" envolvida, dá alguns exemplos, tudo isso em apenas 6 min)  
 https://www.youtube.com/watch?v=sXbdF4KjNOc
 
 Canal MarkBrown, a série TheGameMakersToolKit é excelente, ou seja,
@@ -32,11 +32,11 @@ Eu deveria estar vendo isso, mas ainda nem comecei : P
 Se trata de matemática para jogos  
 https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-
 
-Canal de Tutoriais de Blender, ele é bem prático  
+Canal de Tutoriais de Blender, ele ensina de forma bem prática  
 https://www.youtube.com/user/canalblenderpower/videos
 
 Esse canal tem bastante tutorial de arte (Krita)   
-Agora ele está focando em criar tutorais do motor Godot, mas eu não gosto desse motor : P  
+Agora ele está focando em criar tutorais do motor Godot, mas eu não gostei tanto desse motor : P, mas fica a dica pra quem gosta também  
 https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ/playlists
 
 
@@ -50,7 +50,6 @@ https://www.youtube.com/user/pxldj/videos
 Esse canal comenta coisas interessantes sobre a parte técnica em jogos  
 https://www.youtube.com/user/TheHappieCat/videos
 
-(Ainda preciso ver um vídeo desse cara..)  
 Esse canal comenta (análise e opinião) sobre roteiro em jogos  
 https://www.youtube.com/channel/UCPlWv88ZRMxCcK3BGjrX7ew/videos
 
@@ -76,7 +75,7 @@ https://www.youtube.com/user/Brackeys/videos
 
 "30 coisas que eu odeio sobre seu Pitch de jogo"  
 O palestrante é um "jurado" onde ele assiste à apresentação (Pitch) de um jogo, pra julgar se a empresa deve investir naquela ideia ou não.  
-Apesar de ser algo que se trata com se comunicar com um investidor, também é bastante relevante com a comunicação do seu jogo com o público também  
+Apesar de ser algo que se trata com se comunicar com um investidor, também é bastante relevante com a comunicação do seu jogo com o público  
 https://www.youtube.com/watch?v=4LTtr45y7P0&t=1723s
 
 "Por quê a animação de morte do seu jogo é um lixo"  
