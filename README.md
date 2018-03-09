@@ -95,7 +95,7 @@ https://www.youtube.com/watch?v=OO_d3fwTNPo
 Eu não entendi nem 30% do que esse cara falou, mas saber que isso aí existe é bem importante, engines ECS geralmente estão cientes dos problemas que ele comentou, é algo que vale mais a pena saber do que aplicar (faz + diferença de performance na engine que em código de gameplay)  
 https://www.youtube.com/watch?v=rX0ItVEVjHc
 
-"__Marketeando__ jogos indie com 0 dindin"  
+"_Marketeando_ jogos indie com 0 dindin"  
 Dicas pra fazer o mundo saber que seu jogo existe (e se importar com ele) sem gastar nada  
 https://www.youtube.com/watch?v=SkEQtMP2CuA
 
