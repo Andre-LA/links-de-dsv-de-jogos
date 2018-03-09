@@ -13,6 +13,10 @@ https://shaneenishry.com/blog/2014/12/27/misconceptions-of-component-based-entit
 Aqui ele escreve sobre a experiência de criar um jogo (Tem algumas conclusões dele das quais eu não concordo : P)  
 https://github.com/SSYGEN/blog/issues/31
 
+Artigos com detalhes da criação do motor BitSquid (que depois se tornou StinGray)  
+Essa é a parte 1, outras partes estão linkadas no site então só vou deixar esse aqui  
+http://bitsquid.blogspot.com.br/2014/08/building-data-oriented-entity-system.html
+
 
 ## VÍDEOS OU CANAIS
 
