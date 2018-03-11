@@ -99,6 +99,8 @@ https://www.youtube.com/watch?v=rX0ItVEVjHc
 Dicas pra fazer o mundo saber que seu jogo existe (e se importar com ele) sem gastar nada  
 https://www.youtube.com/watch?v=SkEQtMP2CuA
 
+"Workshop de Projeto de Nível: Projetando Celeste"
+https://www.youtube.com/watch?v=4RlpMhBKNr0
 
 ## LINKS
 
