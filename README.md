@@ -81,7 +81,7 @@ O palestrante é um "jurado" onde ele assiste à apresentação (Pitch) de um jo
 Apesar de ser algo que se trata com se comunicar com um investidor, também é bastante relevante com a comunicação do seu jogo com o público  
 https://www.youtube.com/watch?v=4LTtr45y7P0&t=1723s
 
-"Por quê a animação de morte do seu jogo é um lixo"  
+"Porque a animação de morte do seu jogo é um lixo"  
 Palestra curta sobre animação de morte, ele explica um pouco sobre impacto e tem informações bem legais sobre isso.  
 https://www.youtube.com/watch?v=pmSAG51BybY
 
