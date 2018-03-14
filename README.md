@@ -62,7 +62,7 @@ https://www.youtube.com/user/fabricaDjogos/videos
 O canal Indústria de Jogos tava com uma série legal em que ele dava notícias sobre o meio de desenvolvimento de jogos, ele parou, mas, talvez volte algum dia? De qualquer forma ele tem outros materiais interessantes também  
 https://www.youtube.com/channel/UCwTIfd7zrjlPxzEU_NlqznA/videos
 
-Um pouco da cena de jogos no Rio de Janeiro (tem legenda em português)  
+Um pouco da cena de jogos no Brasil (tem legenda em português)  
 https://www.youtube.com/watch?v=0KPEywfMurI&list=PLNnqfCxRqxUfdW7a6t8TCIonpYNWOdMhT&index=3
 
 365indies é um dos melhores canais que já acompanhei e ainda acompanho.  
