@@ -102,6 +102,10 @@ https://www.youtube.com/watch?v=SkEQtMP2CuA
 "Workshop de Projeto de Nível: Projetando Celeste"  
 https://www.youtube.com/watch?v=4RlpMhBKNr0
 
+"Escrevendo jogos 2D em C usando SDL, por Thomas Lively"  
+Palestra super interessante e intuitiva explicando o básico de SDL!  
+https://www.youtube.com/watch?v=yFLa3ln16w0
+
 ## LINKS
 
 Esse link sempre aparece coisas interessantes  
